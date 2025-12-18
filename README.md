@@ -1,1 +1,1 @@
-Descriere :D
+script verif /etc/hosts
